@@ -16,6 +16,9 @@
 - ``` node report.js or  ```
 -``` npm test  ```
 
+## Bug Report
+https://docs.google.com/spreadsheets/d/1BwtkwY8bCugU-tPfpudmLsD4VM14ulAbZo5kFXN2y9U/edit?usp=sharing
+
 ## Documentation
 https://documenter.getpostman.com/view/24084302/2sA3QwcAMt
 
